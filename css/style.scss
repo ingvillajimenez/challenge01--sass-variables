@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+
+$color: green;
+$text-align: center;
+$font-family: Ubuntu;
+
+h1 {
+	color: $color;
+	text-align: $text-align;
+	font-family: $font-family;
+}
